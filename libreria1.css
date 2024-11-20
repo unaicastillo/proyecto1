@@ -69,6 +69,42 @@ nav {
     margin-top:0;
     image-rendering: pixelated;
 }
+.jShooter{
+    background-image: url(https://pa1.aminoapps.com/6147/34cb727b7375ba4918c869fef27079b811e8ee09_hq.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 101vh;
+    width: 100%;
+    margin-top:0;
+    image-rendering: pixelated;
+}
+.jSurvival{
+    background-image: url(https://i.pinimg.com/originals/ba/ed/da/baeddaa8a28ed4a71df79662ffbb15f6.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 101vh;
+    width: 100%;
+    margin-top:0;
+    image-rendering: pixelated;
+}
+.jMetroidvania{
+    background-image: url(https://i.pinimg.com/originals/c2/70/90/c270908a2dd413f84e39e194b995199e.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 101vh;
+    width: 100%;
+    margin-top:0;
+    image-rendering: pixelated;
+}
+.jFantasiaMedieval{
+    background-image: url(https://i.pinimg.com/originals/53/ad/0c/53ad0cc3373bbe0ea51dd878241952c6.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 101vh;
+    width: 100%;
+    margin-top:0;
+    image-rendering: pixelated;
+}
 h1{
     margin-top: 0;
 }
