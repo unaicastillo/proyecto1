@@ -1,6 +1,6 @@
 body{
     margin: 0;
-
+    cursor: crosshair;
 }
 .Hall{
     background-image: url(https://i.gifer.com/75xZ.gif);
@@ -87,6 +87,10 @@ nav {
     width: 100%;
     margin-top:0;
     image-rendering: pixelated;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    flex-direction: column;
 }
 .jSurvival{
     background-image: url(https://i.pinimg.com/originals/ba/ed/da/baeddaa8a28ed4a71df79662ffbb15f6.gif);
@@ -96,6 +100,10 @@ nav {
     width: 100%;
     margin-top:0;
     image-rendering: pixelated;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    flex-direction: column;
 }
 .jMetroidvania{
     background-image: url(https://i.pinimg.com/originals/c2/70/90/c270908a2dd413f84e39e194b995199e.gif);
@@ -105,6 +113,10 @@ nav {
     width: 100%;
     margin-top:0;
     image-rendering: pixelated;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    flex-direction: column;
 }
 .jFantasiaMedieval{
     background-image: url(https://i.pinimg.com/originals/53/ad/0c/53ad0cc3373bbe0ea51dd878241952c6.gif);
@@ -114,6 +126,10 @@ nav {
     width: 100%;
     margin-top:0;
     image-rendering: pixelated;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    flex-direction: column;
 }
 h1{
     margin-top: 0;
