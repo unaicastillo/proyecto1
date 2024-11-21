@@ -1,5 +1,6 @@
 body{
     margin: 0;
+
 }
 .Hall{
     background-image: url(https://i.gifer.com/75xZ.gif);
@@ -8,15 +9,20 @@ body{
     height: 101vh;
     width: 100%;
     image-rendering: pixelated;
+   
 }
 nav {
-    max-width: 900px;
+    max-width: 650px;
     margin:auto ;
-    background-color: rgba(255, 255, 255, 0.491);
+    background-color: rgba(255, 255, 255, 0.422);
     font-size: 20px;
     
 }
-
+.nav2{
+    max-width: fit-content;
+    font-size: 20px;
+    
+}
 .menu-horizontal {
     list-style: none;
     display: flex;
@@ -68,6 +74,10 @@ nav {
     width: 100%;
     margin-top:0;
     image-rendering: pixelated;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    flex-direction: column;
 }
 .jShooter{
     background-image: url(https://pa1.aminoapps.com/6147/34cb727b7375ba4918c869fef27079b811e8ee09_hq.gif);
@@ -107,4 +117,45 @@ nav {
 }
 h1{
     margin-top: 0;
+}
+.hall1{
+    background-image: url(https://i.gifer.com/75xZ.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 101vh;
+    width: 100%;   
+}
+.jueguito{
+    align-items: center;
+}
+table{
+    align-items: center;
+    margin: auto;
+}
+.principal{
+    align-items: center;
+    justify-content: center;
+}
+
+.contedor{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1000px;
+    height: 200px;
+    padding: 30px;
+    border-radius: 40px;
+    margin-bottom: 30px;
+}
+.imag{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 20px;
+    transition:  0.8s ease;
+}
+
+.imag:hover{
+    width: 230px;
+    height: 230px;
 }
